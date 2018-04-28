@@ -10,8 +10,8 @@
   "generic.percent": "{{percent}}%",
   "generic.percent-chance-of": "{{percent}}% de chance de {{label}}",
   "generic.percent-ratio": "{{percent}}% ({{value}} de {{max}})",
-  "generic.ratio": "{{value}} of {{max}}",
-  "generic.range": "{{min}} to {{max}}",
+  "generic.ratio": "{{value}} de {{max}}",
+  "generic.range": "{{min}} para {{max}}",
   "generic.yes": "sim",
   "generic.no": "não",
   "generic.seconds": "{{count}} segundos",
@@ -40,11 +40,11 @@
   "quality.iridium": "irídio",
 
   // NPC friendship // TODO
-  "friendship-status.friendly": "Friendly",
-  "friendship-status.dating": "Dating",
-  "friendship-status.engaged": "Engaged",
-  "friendship-status.married": "Married",
-  "friendship-status.divorced": "Divorced",
+  "friendship-status.friendly": "Amigável",
+  "friendship-status.dating": "Namorando",
+  "friendship-status.engaged": "Comprometidos",
+  "friendship-status.married": "Casados",
+  "friendship-status.divorced": "Divorciados",
 
   /*********
   ** Data translations
